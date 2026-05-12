@@ -25,7 +25,6 @@ Atualmente estudando:
 - Hardware
 - Manutenção e tecnologia
 - Informática
-- GitHub básico
 
 ---
 
